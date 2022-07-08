@@ -1,0 +1,177 @@
+body{
+    background-image:url(banner.jpg) ;
+    background-attachment: fixed;
+    text-align: center;
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.paragrafo{
+    
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin:10px auto;
+    width: 980px;
+    
+}
+
+
+
+
+
+.topo img{
+    
+    width: 150px;
+}
+
+.paragrafo-topo{
+
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.link-topo{
+
+color: #1d1d1d;
+font-size: 18px;
+text-decoration:none;
+margin: 0 10px;
+border-bottom: 2px solid #1d1d1d;
+
+}
+
+.banner{
+
+    padding-top:0;
+    margin-top: 50px;
+    
+}
+
+span{
+    font-weight: bold;
+}
+
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+
+    font-weight: normal;
+    color: black;
+    margin-top: 0;
+}
+
+.imagem{
+
+    
+    width: 450px;
+    
+}
+
+
+
+.lista-servicos{
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.texto-azul{
+
+    color: red;
+}
+
+.secao-servicos{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:blue;
+    color: white;
+    line-height: 40px;
+    font-size: 20px;
+
+    
+    
+
+}
+
+.secao-contato{
+
+background-color: #1d80c1;
+padding-bottom: 30px;
+padding-top: 30px;
+color: white;
+
+
+}
+
+
+
+
+h3{
+
+    
+    font-size: 28px;
+    line-height: 42px;
+}
+
+
+
+.texto-amarelo{
+
+ color:yellow;
+
+}
+
+.texto-branco{
+
+    color: #ffffff;
+}
+
+.lista-servicos{
+
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.item-lista-servicos{
+
+    font-size: 22px;
+    line-height: 42px;
+    text-align: justify;
+    color: #fff;
+}
+
+.paragrafo-contato{
+    
+    color:white;
+    background-color:black;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lista-contato{
+
+    width: 210PX;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato{
+
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.link-contato{
+    
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
